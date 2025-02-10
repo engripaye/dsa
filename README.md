@@ -1,4 +1,4 @@
-## ** DSA PRACTICE **
+##  DSA PRACTICE 
 
 ### *1. Arrays & Hashing*  
 1. *Two Sum* → Find two numbers in an array that sum to a target. (HashMap approach for O(N) solution)  
