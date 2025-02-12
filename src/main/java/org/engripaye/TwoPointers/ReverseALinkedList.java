@@ -1,17 +1,11 @@
 package org.engripaye.TwoPointers;
 
- // 1 -> 2 -> 3 -> 4 -> 5 to 5 -> 4 -> 3 -> 2 -> 1
 
-    class ListNode {
-    int val;
-    ListNode next;
+import org.engripaye.Node.ListNode;
 
-    ListNode(int val) {
-        this.val = val;
-        this.next = null;
-    }
-}
 public class ReverseALinkedList {
+
+    // 1 -> 2 -> 3 -> 4 -> 5 to 5 -> 4 -> 3 -> 2 -> 1
 
         public static ListNode reverseList(ListNode head) {
             ListNode prev = null; // holds the previous node
