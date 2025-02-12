@@ -2,7 +2,8 @@ package org.engripaye.DynamicProgramming;
 
 public class HouseRobber {
 
-    // you are planning to rob houses on the street, but you can't rob houses close to each other, else the alarm will go off
+    // -- you are planning to rob houses on the street,
+    // but you can't rob houses close to each other, else the alarm will go off
     // rob house 1, skip 2, rob 3, skip 4, etc.
     public static int rob(int[] nums) {
         if(nums.length == 0) return 0;

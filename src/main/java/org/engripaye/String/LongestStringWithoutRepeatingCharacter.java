@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class LongestStringWithoutRepeatingCharacter {
 
-    // TODO -- find the longest words where no letter repeats
+    // find the longest words where no letter repeats
 
     public static int lengthOfLongestSubstring(String s) {
         Set<Character> seen = new HashSet<>(); // store unique characters

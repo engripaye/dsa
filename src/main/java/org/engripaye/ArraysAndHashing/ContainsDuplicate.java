@@ -6,7 +6,6 @@ import java.util.Set;
 public class ContainsDuplicate {
 
     // numbers that occur more than once in an array
-
     public static  boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
         for(int num : nums) {
@@ -17,7 +16,6 @@ public class ContainsDuplicate {
         }
         return false;
     }
-
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 0, 4, 7, 2};
 

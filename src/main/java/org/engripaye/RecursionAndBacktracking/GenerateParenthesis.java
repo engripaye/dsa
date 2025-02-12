@@ -5,7 +5,8 @@ import java.util.List;
 
 public class GenerateParenthesis {
 
-    // ()()() how to arrange a given object in nth terms, they must have a matching later
+    // ()()() how to arrange a given object in nth terms,
+    // they must have a matching later
 
     public static List<String> generateParenthesis(int n) {
         List<String> result = new ArrayList<>();

@@ -4,7 +4,7 @@ import java.util.Locale;
 
 public class ValidPalindrome {
 
-    // TODO -- word sentence if it reads the same forward and backward "racecar"
+    // word sentence if it reads the same forward and backward "racecar"
 
     public static boolean isPalindrome(String s) {
         s = s.toLowerCase().replaceAll("[^a-z0-9]", ""); // Remove non-alphanumeric characters

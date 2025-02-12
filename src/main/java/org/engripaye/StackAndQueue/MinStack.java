@@ -4,7 +4,8 @@ import java.util.Stack;
 
 public class MinStack {
 
-    // get the smallest number in a stack // pop means remove the smallest and return the next number
+    // get the smallest number in a stack
+    // pop means remove the smallest and return the next number
 
     private Stack<Integer> stack;
     private Stack<Integer> minStack;

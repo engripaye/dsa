@@ -2,7 +2,8 @@ package org.engripaye.RecursionAndBacktracking;
 
 public class FibonacciNumber {
 
-    // the first two numbers are 0 and 1 then the next number is sum of the two numbers before it
+    // the first two numbers are 0 and 1 then the next number
+    // is sum of the two numbers before it
 
     // 0 -> 1 -> 1(0+1) -> 2 (1+1)
 

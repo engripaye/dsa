@@ -6,7 +6,8 @@ import java.util.Map;
 
 public class TwoSum {
 
-    // TODO  Find two numbers in an array that sum to a target. (HashMap approach for O(N) solution)
+    // TODO  Find two numbers in an array that sum to a target.
+    //  (HashMap approach for O(N) solution)
 
     public static int[] twoSums(int[] nums, int target){
 

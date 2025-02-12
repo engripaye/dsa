@@ -4,8 +4,10 @@ import java.util.Stack;
 
 public class ImplementQueueUsingStack {
 
-   // focused on Queue // queue is like a line at a park FIFO first in first out (the first gets on the ride)
-    // stack is like a stack of plate LIFO last in first out (the last plate is the first you take out)
+   // -- focused on Queue // queue is like a line at a park FIFO first in
+    // first out (the first gets on the ride)
+    // -- stack is like a stack of plate LIFO last in first out
+    // (the last plate is the first you take out)
 
 
  private Stack<Integer> inputStack;

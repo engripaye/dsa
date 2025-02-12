@@ -5,7 +5,8 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 public class GraphBfsAndDfsTraversal {
 
-    // you have a graph ( a network of connected point ) and you need to visit all the points(nodes) in an organized way
+    // -- you have a graph ( a network of connected point ) and
+    // you need to visit all the points(nodes) in an organized way
     // visiting all the node in a tree from top to bottom in ascending order
 
 

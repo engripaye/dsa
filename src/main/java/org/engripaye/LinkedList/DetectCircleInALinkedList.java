@@ -4,7 +4,8 @@ import org.engripaye.Node.ListNode;
 
 public class DetectCircleInALinkedList {
 
-    // a linked list with a circle is A CIRCULAR PATH you keep following the link and never reaches the end
+    // a linked list with a circle is A CIRCULAR PATH you
+    // keep following the link and never reaches the end
 
     public static boolean hasCycle(ListNode head) {
         ListNode slow = head, fast = head;

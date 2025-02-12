@@ -2,7 +2,8 @@ package org.engripaye.SearchingAndSorting;
 
 public class BinarySearch {
 
-    // search for an object or a number by diving search space by 2, making it super fast
+    // search for an object or a number by
+    // diving search space by 2, making it super-fast
 
     public static int search(int [] nums, int target) {
         int left = 0, right = nums.length - 1;

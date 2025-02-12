@@ -11,6 +11,7 @@ public class ReverseALinkedList {
             ListNode prev = null; // holds the previous node
             ListNode current = head; // start at the first node
 
+
             while (current != null) {
                 ListNode next = current.next; // save next node
 
